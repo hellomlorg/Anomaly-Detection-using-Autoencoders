@@ -1,5 +1,5 @@
 # Anomaly-Detection-using-Autoencoders
-An anomaly is a data point or a set of data points in our dataset that is different from the rest of the dataset. It may either be a too large value or a too-small value. Anomalies describe many critical incidents like technical glitches, sudden changes or plausible opportunity in the market. Anomalies are a very small fraction of the entire dataset. In this project, we look at how autoencoders can be used to detect anomalies. 
+An anomaly is a data point or a set of data points in our dataset that is different from the rest of the dataset. It may either be a too large value or a too small value. Anomalies describe many critical incidents like technical glitches, sudden changes, or plausible opportunities in the market. Anomalies are a very small fraction of the entire dataset. In this project, we look at how autoencoders can be used to detect anomalies. 
 
 ## Overview
 This jupyter notebook explains how one can create an Autoencoder to detect Anomalies.
@@ -21,7 +21,7 @@ Here it is considered as a non time series problem where we have to detect anoma
 I have written an article explaining this at hello ML available [here](https://helloml.org/anomaly-detection-using-autoencoders/).
 
 ## How do I use this?
-You can simply download the jupyter notebook and run it. Feel free to make changes and execute it to understand the concepts better.
+You can simply download the jupyter notebook and run it. Feel free to make changes and execute them to understand the concepts better.
 
 ## Contributions
-You can make contribution to it by making a pull request to it.
+You can make a contribution to it by making a pull request to it.
